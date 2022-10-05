@@ -46,6 +46,6 @@ Thank you! Happy coding :)
 
 ---
 
-yarn install;
-yarn run dev
-check api endpoing by calling /order
+- yarn install;
+- yarn run dev
+- check api endpoing by calling /order
